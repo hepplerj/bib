@@ -26,4 +26,4 @@ sources easy in Pandoc/vim.
   [fork the repository]: http://help.github.com/fork-a-repo/
   [socbib repository]: https://github.com/kjhealy/socbibs
   [BibTool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
-  [Bibkeys]:   [Bibkeys]: https://github.com/lmullen/bibkeys
+  [Bibkeys]: https://github.com/lmullen/bibkeys
