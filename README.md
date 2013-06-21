@@ -24,6 +24,6 @@ sources easy in Pandoc/vim.
   [Pandoc]: http://johnmacfarlane.net/pandoc/
   [LaTeX]: http://www.latex-project.org/
   [fork the repository]: http://help.github.com/fork-a-repo/
-  [socbibs repository]: https://github.com/kjhealy/socbibs
+  [socbib repository]: https://github.com/kjhealy/socbibs
   [BibTool]: http://www.gerd-neugebauer.de/software/TeX/BibTool/index.en.html
   [Bibkeys]:   [Bibkeys]: https://github.com/lmullen/bibkeys
